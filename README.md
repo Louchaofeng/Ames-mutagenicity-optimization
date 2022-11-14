@@ -13,5 +13,7 @@ Code and Data for 'Chemical Rules for Optimization of Chemical Mutagenicity via 
 A total of 6 base classifiers and 1 consensus model were save in 'models' file.
 
 ## Mutagenicity prediction using the jupyter notebook
-## Mutagenicity optimization using 'lmmd.ecust.edu.cn/admetsar2/admetopt2'
+Run *ames_model.ipynb* in your jupyter notebook.
+
+## Mutagenicity optimization using the webserver: 'lmmd.ecust.edu.cn/admetsar2/admetopt2'
 
