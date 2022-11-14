@@ -15,5 +15,6 @@ A total of 6 base classifiers and 1 consensus model were save in 'models' file.
 ## Mutagenicity prediction using the jupyter notebook
 Run *ames_model.ipynb* in your jupyter notebook.
 
-## Mutagenicity optimization using the webserver: 'lmmd.ecust.edu.cn/admetsar2/admetopt2'
+## Mutagenicity optimization using the ADMETopt2 webserver. 
+Website: 'http://lmmd.ecust.edu.cn/admetsar2/admetopt2/'
 
